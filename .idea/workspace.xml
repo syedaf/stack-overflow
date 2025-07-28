@@ -4,9 +4,68 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b46a53ee-af8c-4eac-8e60-d27c8ba83999" name="Changes" comment="Initial Project Creation. Gitignore update">
-      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+    <list default="true" id="b46a53ee-af8c-4eac-8e60-d27c8ba83999" name="Changes" comment="Initial Project Creation.">
+      <change afterPath="$PROJECT_DIR$/public/icons/account.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/arrow-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/arrow-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/arrow-up-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/au.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/avatar.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/bronze-medal.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/calendar.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/carbon-location.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/chevron-down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/chevron-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/clock-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/clock.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/close.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/computer.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/currency-dollar-circle.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/downvote.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/downvoted.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/edit.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/eye.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/github.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/gold-medal.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/google.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/hamburger.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/home.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/job-search.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/like.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/link.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/location.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/message.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/mingcute-down-line.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/moon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/question.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/search.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/sign-up.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/silver-medal.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/star-filled.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/star-red.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/star.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/stars.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/suitcase.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/sun.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/tag.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/trash.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/upvote.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/upvoted.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/user.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/users.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/auth-dark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/auth-light.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/dark-illustration.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/default-logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/light-illustration.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/logo-dark.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/logo-light.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/site-logo.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/app/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/globals.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,25 +96,35 @@
     <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;js.debugger.nextJs.config.created.client&quot;: &quot;true&quot;,
-    &quot;js.debugger.nextJs.config.created.server&quot;: &quot;true&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;F:/Learning/NextJS/Projects/stack-overflow&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "js.debugger.nextJs.config.created.client": "true",
+    "js.debugger.nextJs.config.created.server": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "F:/Learning/NextJS/Projects/stack-overflow/public",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "prettierjs.PrettierConfiguration.Package": "F:\\Learning\\NextJS\\Projects\\stack-overflow\\node_modules\\prettier",
+    "ts.external.directory.path": "F:\\Learning\\NextJS\\Projects\\stack-overflow\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Learning\NextJS\Projects\stack-overflow\public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Learning\NextJS\Projects\stack-overflow\app" />
+    </key>
+  </component>
   <component name="RunManager" selected="npm.Next.js: server-side">
     <configuration name="Next.js: debug client-side" type="JavascriptDebugType" uri="http://localhost:3000/">
       <method v="2" />
@@ -88,6 +157,7 @@
       <workItem from="1753655318064" duration="25000" />
       <workItem from="1753655358972" duration="1233000" />
       <workItem from="1753656654722" duration="74000" />
+      <workItem from="1753656744168" duration="6101000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Project Creation">
       <option name="closed" value="true" />
@@ -105,7 +175,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753656721870</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Initial Project Creation.">
+      <option name="closed" value="true" />
+      <created>1753656878150</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1753656878150</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,6 +203,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Project Creation" />
     <MESSAGE value="Initial Project Creation. Gitignore update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Project Creation. Gitignore update" />
+    <MESSAGE value="Initial Project Creation." />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Project Creation." />
   </component>
 </project>
